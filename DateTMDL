@@ -452,5 +452,3 @@ createOrReplace
 					"Year Offset",DATEDIFF(_today,[Date],YEAR)
 					)
 					```
-
-		annotation PBI_Id = dce42f5941bc4845b42a26bb78f13f6c
